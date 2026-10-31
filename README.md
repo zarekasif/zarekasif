@@ -9,7 +9,7 @@ and now building NLP systems for low-resource languages and information retrieva
 ## What I work on
 
 - **Low-resource NLP (Urdu)** — built a 40k-question Urdu QA dataset from machine-translated
-  SQuAD and fine-tuned mT5 / XLM-RoBERTa ([urdu-qa](https://github.com/zarekasif/urdu-qa)),
+  SQuAD and fine-tuned mT5 on it ([urdu-qa](https://github.com/zarekasif/urdu-qa)),
   now re-evaluating it with leakage-free splits and standard SQuAD metrics.
 - **NLP coursework at TU Wien** — NLP & Information Extraction (grade 1),
   Deep Learning for NLP, Advanced Information Retrieval.
