@@ -1,62 +1,35 @@
-# Hey, I'm Zarek
+# Hi, I'm Zarek
 
-Data professional turned researcher.
-Currently doing my Master's in Data Science at TU Wien in Vienna.
-
-I spent several years working in the data industry before deciding
-I wanted to understand what was actually happening underneath the
-tools I was using every day. That decision brought me from Pakistan
-to Vienna, and it is the best one I have made.
+MSc Data Science student at TU Wien, Vienna, focused on **Natural Language Processing**.
+BSc in Computer Science from Lahore, then technical support work for a Vienna-based client,
+and now building NLP systems for low-resource languages and information retrieval.
 
 ---
 
 ## What I work on
 
-- **Natural Language Processing** — my strongest area.
-  Top grade in NLP & Information Extraction at TU Wien.
-  Previously worked on Machine Reading Comprehension.
-
-- **Biomedical NLP** — built a neural re-ranking system
-  for the BioASQ Task 13b challenge as part of my
-  Advanced Information Retrieval course.
-
-- **Data Science pipeline** — from messy raw data through
-  to cleaning, analysis, visualization and machine learning.
-
----
+- **Low-resource NLP (Urdu)** — built a 40k-question Urdu QA dataset from machine-translated
+  SQuAD and fine-tuned mT5 / XLM-RoBERTa for extractive QA (mT5: 73% F1, 64% exact match).
+- **Biomedical retrieval** — neural re-ranking for the BioASQ Task 13b challenge
+  (TU Wien, Advanced Information Retrieval, group project).
+- **NLP coursework at TU Wien** — NLP & Information Extraction (grade 1),
+  Deep Learning for NLP, Advanced Information Retrieval.
 
 ## Currently
 
-- MSc Data Science @ TU Wien, Vienna
-- Exploring low-resource NLP for underrepresented languages
-- Building in public, one project at a time
-
----
+- Starting a follow-up: Urdu question answering with modern multilingual LLMs and retrieval
+- Looking for a working-student or research-assistant role in NLP (Vienna or remote)
 
 ## Stack
 
-Python · SQL · R · HuggingFace · scikit-learn ·
-Jupyter · pandas · BeautifulSoup
-
----
+Python · PyTorch · Hugging Face Transformers · sentence-transformers · scikit-learn ·
+spaCy · pandas · SQL · R · Linux · Git
 
 ## Outside of data
 
-I have spent years as a pianist and was President of a
-Music and Dance Society. I find the way you approach music
-and the way you approach data are not as different as
-they seem. Both require patience, pattern recognition,
-and knowing when to trust your instincts.
+Pianist and keyboardist; former President of the Forman Music and Dance Society.
 
----
+## Contact
 
-## Let's connect
-
-- LinkedIn: linkedin.com/in/zarek-asif-26523a119
-- Based in Vienna, Austria
-- Open to research collaborations, internships,
-  and conversations about NLP and responsible AI
-
----
-
-*Always curious. Always building.*
+[LinkedIn](https://www.linkedin.com/in/zarek-asif-26523a119/) · Vienna, Austria ·
+English (C1) · German (B1) · Urdu
