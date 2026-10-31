@@ -9,15 +9,14 @@ and now building NLP systems for low-resource languages and information retrieva
 ## What I work on
 
 - **Low-resource NLP (Urdu)** — built a 40k-question Urdu QA dataset from machine-translated
-  SQuAD and fine-tuned mT5 / XLM-RoBERTa for extractive QA (mT5: 73% F1, 64% exact match).
-- **Biomedical retrieval** — neural re-ranking for the BioASQ Task 13b challenge
-  (TU Wien, Advanced Information Retrieval, group project).
+  SQuAD and fine-tuned mT5 / XLM-RoBERTa ([urdu-qa](https://github.com/zarekasif/urdu-qa)),
+  now re-evaluating it with leakage-free splits and standard SQuAD metrics.
 - **NLP coursework at TU Wien** — NLP & Information Extraction (grade 1),
   Deep Learning for NLP, Advanced Information Retrieval.
 
 ## Currently
 
-- Starting a follow-up: Urdu question answering with modern multilingual LLMs and retrieval
+- Re-training Urdu QA models on paragraph-level splits, then adding multilingual LLM baselines
 - Looking for a working-student or research-assistant role in NLP (Vienna or remote)
 
 ## Stack
