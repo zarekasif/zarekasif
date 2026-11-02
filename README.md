@@ -11,7 +11,7 @@ and now building NLP systems for low-resource languages and information retrieva
 - **Low-resource NLP (Urdu)** — built a 40k-question Urdu QA dataset from machine-translated
   SQuAD and fine-tuned mT5 on it ([urdu-qa](https://github.com/zarekasif/urdu-qa)),
   then re-evaluated it with leakage-free splits and standard SQuAD metrics:
-  XLM-RoBERTa base reaches 61.7% exact match / 73.2 F1 on unseen paragraphs.
+  XLM-RoBERTa base reaches 62.3% exact match / 73.5 F1 on the held-out test set.
 - **NLP coursework at TU Wien** — NLP & Information Extraction (grade 1),
   Deep Learning for NLP, Advanced Information Retrieval.
 
